@@ -1,0 +1,17 @@
+
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <!-- <g>
+  <title>background</title>
+  <rect fill="#ff0000" id="canvas_background" height="66" width="66" y="-1" x="-1"/>
+ </g> -->
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="3" width="20" y="31" x="0" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#0099ff"/>
+  <rect id="svg_3" height="16" width="29.464285" y="25" x="20" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#55673AB7"/>
+  <ellipse ry="10.267857" rx="10.267857" id="svg_5" cy="32.532791" cx="51.998936" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#673AB7"/>
+  <rect id="svg_6" height="2.827381" width="7.886904" y="36" x="13" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#555555"/>
+  <rect id="svg_7" height="8.407738" width="2.678571" y="38.78279" x="13" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#555555"/>
+  <path transform="rotate(180 14.230920791625977,50.2807502746582) " id="svg_8" d="m10.28747,53.731273l3.943452,-6.901043l3.943452,6.901043l-7.886904,0z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#fff" fill="#555555"/>
+ </g>
+</svg>

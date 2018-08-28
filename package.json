@@ -1,0 +1,19 @@
+{
+  "name": "signal-prop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:dev": "./node_modules/.bin/parcel watch index.html src/index.js src/enigma.js && node clean-svg.js",
+    "build": "./node_modules/.bin/parcel build --public-url ./ index.html src/index.js src/enigma.js && node clean-svg.js",
+    "build:src": "./node_modules/.bin/parcel build src/index.js src/enigma.js",
+    "export": "yarn build && node export.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-zip": "^1.1.1",
+    "parcel-bundler": "^1.9.7"
+  }
+}

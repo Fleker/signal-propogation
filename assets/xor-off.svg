@@ -1,0 +1,20 @@
+
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="6" height="6" id="canvas_background" fill="#fff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#000" stroke-width="0" x="31" y="0" width="3" height="11" id="svg_1" stroke="#fff"/>
+  <rect fill="#000" stroke="#fff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="52" y="31" width="12" height="3" id="svg_4"/>
+  <rect fill="#000" stroke-width="0" x="0.002116" y="31" width="28.571411" height="3" id="svg_6" stroke="#fff"/>
+  <rect fill="#000" stroke-width="0" x="8" y="8" width="24.675302" height="3" id="svg_7" stroke="#fff"/>
+  <rect fill="#000" stroke="#fff" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="8" y="11" width="3" height="14.204533" id="svg_8"/>
+  <rect fill="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="8" y="24" width="18.028877" height="3" id="svg_9" stroke="#fff"/>
+  <path fill="#fff" stroke="#000" d="m21.99885,20.08124l11.68619,0.12978c12.26762,0.60975 19.72612,12.1267 19.72612,12.1267c0.2886,7.79221 -16.40511,10.11904 -19.72612,10.51939c-0.50294,0.6819 -11.60502,-0.12979 -11.60714,-0.16234c-0.57508,0.46545 5.45846,-9.0403 6.08977,-12.29608l-6.16882,-10.31745z" id="svg_10"/>
+  <path stroke-width="1.5" id="svg_5" d="m19.611607,20.447545c0,0 6.3125,10 6.3125,10c0,0 -6.4375,12.0625 -6.4375,12.0625c0,0 -0.625,-0.5625 -0.625,-0.5625c0,0 6.3125,-11.75 6.3125,-11.75c0,0 -6.625,-9.8125 -6.625,-9.8125c0,0 1.0625,0.0625 1.0625,0.0625z" stroke="#000" fill="#000"/>
+ </g>
+</svg>
